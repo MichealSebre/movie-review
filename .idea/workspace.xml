@@ -1,19 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05354e26-8df6-46e9-a998-10dfcb5def3c" name="Default Changelist" comment="" />
+    <list default="true" id="05354e26-8df6-46e9-a998-10dfcb5def3c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bannerbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/critic.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fresh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rbg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rotten.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/rottenbig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tmnt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w3c-css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w3c-html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/w3c-xhtml.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmnt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1doONVXpGO6J02mS2828cKBQ2Ep" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\demek\Downloads\files\movie-review" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
